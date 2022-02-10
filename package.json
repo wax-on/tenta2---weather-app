@@ -39,6 +39,6 @@
     "@iconify/react": "^1.1.2",
     "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   }
 }
